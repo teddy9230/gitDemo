@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tony tony tony
+=======
+teddy teddy teddy
+>>>>>>> teddy
